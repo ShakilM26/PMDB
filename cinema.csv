@@ -1,0 +1,223 @@
+Year,Name,Director,Genre,IMDB,Rotten Tomatoes,Metacritic,Country,Personal Rating,Comics,Animation,TV_Series,Budget,Box_office,Runtime,Google_user,Month
+
+2020,Tenet,Christopher nolan,Sci-fi/Action,7.4,69,69,USA,7.5,no,no,no,200,363,150,85,January
+2020,WW84,Patty Jenkins,Superhero/Action,5.4,58,60,USA,5,yes,no,no,200,167,151,67,January
+2012,Django Unchained, Quentin Tarantino,Western/Action,8.4,87,81,USA,8.5,no,no,no,100,425,165,93,January
+2020,Onward,Dan Scanlon,Animation/Family,7.4,88,61,USA,7,no,yes,no,185,142,102,81,January
+2019,Polar,Jonas Åkerlund,Action/Thriller,6.3,19,19,USA,6,no,no,no,0,0,118,77,January
+2019,Nezha,Yu Yang,Animation/Fantasy,7.5,88,54,Chinese,8,no,yes,no,20,743,110,93,January
+2018,Adrift,Baltasar Kormákur,Romance/Adventure,6.6,69,56,USA,6,no,no,no,35,60,96,84,January
+2013,Mumbai police,Rosshan Andrrews,Mystery/Thriller,8,67,50,India,8,no,no,no,0,0,145,95,January
+2004,Man On Fire,Tony Scott,Action/Thriller,7.7,38,47,USA,7,no,no,no,70,130,146,89,January
+2009,Mother,Bong Joon-ho,Mystery/Thriller,7.8,96,79,Korean,7.5,no,no,no,5,17,128,88,January
+1954,20000 Leagues Under the Sea,Richard Fleischer,Adventure/Sci-fi,7.2,89,83,USA,7,no,no,no,5,28,127,86,January
+2014,The Admiral: Roaring Currents,Kim han-min,War/Action,7.1,86,0,Korean,8,no,no,no,19,138,127,88,January
+2005,Prison Break,Paul Scheuring,Drama,8.3,60,65,USA,9,no,no,yes,0,0,40-50,94,January
+2003,Kill Bill 1, Quentin Tarantino,Action/Crime,8.1,85,69,USA,8,no,no,no,30,181,111,91,February
+2004,Kill Bill 2, Quentin Tarantino,Action/Crime,8,84,83,USA,7.5,no,no,no,30,152,137,92,February
+2020,The Call of the wild,Chris Sanders,Family/Adventure,6.8,62,48,USA,6,no,no,no,125,111,100,87,February
+2018,Dark Figure of Crime,Kim Tae-gyun,Crime/Thriller,6.7,80,80,Korean,6,no,no,no,8,10,110,79,February
+2009,Cell 211,Daniel Monzon,Action/Drama,7.6,98,21,Spanish,7.5,no,no,no,0,0,140,91,February
+1995,Waterworld,kevin Reynolds,Action/Sci-fi,6.2,48,56,USA,6,no,no,no,175,264,135,83,February
+2020,Enola Holmes,Harry Bradbeer,Mystery/Adventure,6.6,91,68,USA,6.5,no,no,no,0,0,123,91,February
+2009,Ninja Assasin,James McTeigue,Action/Martial Arts,6.3,26,30,USA,6.5,no,no,no,50,62,99,79,February
+2017,Ghost stories,Andy Nyman/Jeremy Dyson,Horror,6.4,85,68,UK,7,no,no,no,0,0,98,78,February
+2020,Oh My Kadavule,Ashwath Marimuthu,Romance/Drama,8.1,20,20,Malayalam,8,no,no,no,0,0,151,97,February
+2010,The Town,Ben Affleck,Thriller/Crime,7.5,92,74,USA,7,no,no,no,37,154,150,83,February
+2014,The Grand Budapest Hotel,Wes Anderson,Crime/Comedy,8.1,92,88,USA,8,no,no,no,25,173,100,93,March
+2017,Dark,Baran bo Odar,Sci-fi,8.8,95,72,Germany,9,no,no,yes,0,0,44-73,95,March
+2020,Colour Photo,Sandeep Raj,Romance/Drama,8.4,0,0,India,8,no,no,no,0,0,142,98,March
+2020,Jiang Ziya,Teng Cheng & Li Wei,Animation/Fantasy,6.6,83,70,Chinese,6.5,yes,yes,no,150,244,110,81,March
+2012,Argo,Ben Affleck,Thriller/Drama,7.7,96,86,USA,8,no,no,no,45,232,120,86,March
+1955,The night of the hunter,Charles Laughton,noir/Thriller,8,95,99,USA,8,no,no,no,6,10,92,86,March
+1996,Fargo,Coen Brothers,Crime/Thriller,8.1,94,85,USA,8,no,no,no,7,61,98,91,March
+1975,Jaws,Steven Spielberg,Adventure/Thriller,8,98,87,USA,8,no,no,no,9,472,124,87,March
+2007,No country for old man,Coen Brothers,Crime/Western,8.1,93,91,USA,9,no,no,no,25,172,122,90,March
+2010,Midnight FM,Kim Sang-man,Thriller/Mystery,6.6,40,30,Korean,6,no,no,no,8,2,106,91,March
+1989,The Abyss, James Cameron,Sci-fi/Adventure,7.5,89,62,USA,8,no,no,no,45,90,139,91,March
+2002,Sympathy for Mr. Vengence,Park Chan-wook,Thriller/Drama,7.6,54,56,Korean,7,no,no,no,10,14,129,91,March
+2015,Assassination,Choi Dong-hoon,Action/Drama,7.3,83,64,Korean,7.5,no,no,no,16,91,140,87,March
+2011,Tinker Tailor Soldier Spy,Tomas Alfredson,Thriller/Mystery,7.1,84,85,UK,7.5,no,no,no,21,81,127,84,March
+2021,The little things,John lee hancock,Thriller/Crime,6.3,45,54,USA,5,no,no,no,30,30,128,72,March
+2013,Gangster Squad,Ruben Fleischer,Crime/Action,6.7,31,40,USA,6.5,no,no,no,70,105,113,78,April
+2006,The Painted Veil,John Curran,Romance/Drama,7.5,74,69,USA,7.5,no,no,no,19,26,125,90,April
+2011,Drive,Nicolas Refn,Action/Crime,7.8,93,78,USA,8,no,no,no,15,81,100,89,April
+2020,Escape from pretoria,Francis Annan,Thriller/Drama,6.8,73,56,USA,6,no,no,no,0,0,106,82,April
+2006,Rescue Dawn,Werner Herzog,War/Action,7.3,90,77,USA,7,no,no,no,10,7,126,86,April
+2016,The Wailing,Na Hong-jin,Horror,7.5,99,81,Korean,7,no,no,no,8,51,156,84,April
+2021,Raya & the last Dragon,Carlos Lopez & Don Hall,Animation/Family,7.3,80,75,USA,7,no,yes,no,100,130,114,86,April
+2019,Alita Battle Angle,Robert Rodriguez,Sci-fi/Action,7.3,61,53,USA,7.5,no,no,no,180,405,122,88,April
+2020,Palm Springs,Max-Andy-Gabriela,Sci-fi/Rom-com,7.4,95,83,USA,7.5,no,no,no,5,0,90,91,April
+2020,Promising Young Women,Emerald Fennell,Thriller/Comedy,7.5,90,73,UK,7,no,no,no,8,17,113,87,April
+2021,Zack Snyder's Justice League, Zack Snyder,Action/Adventure,8.1,71,54,USA,8,yes,no,no,70,400,242,85,April
+2021,Drishyam 2,Jeethu Joseph,Crime/Drama,8.6,86,61,India,8.5,no,no,no,0,0,153,96,April
+2021,Godzilla vs Kong,Adam Wingard,Sci-fi/Action,6.4,75,59,USA,6,no,no,no,180,468,113,90,April
+2019,Godzilla: King of the Monster,Michael Dougherty,Sci-fi/Action,6,42,48,USA,6,no,no,no,180,387,132,87,April
+2005,Lord of war,Andrew Niccol,War/Crime,7.6,61,62,USA,7,no,no,no,50,73,123,88,May
+2005,The Jacket,John Maybury,Sci-fi/Thriller,7.1,44,44,USA,6,no,no,no,29,21,103,82,May
+2020,Superman: Man of Tomorrow,Chris Palmer,Action/Adventure,6.4,100,81,USA,7,yes,yes,no,0,0,86,73,May
+2020,Superman: Red Son,Sam Liu,Action/Adventure,6.4,88,81,USA,6,yes,yes,no,0,0,84,74,May
+2020,Kannum Kannum Kollidythal,Desingh Periyasamy,Romance/Thriller,7.7,0,0,India,7.5,no,no,no,0,0,160,93,May
+2019,Evaru,Venkat Ramji,Thriller/Mystery,8.2,0,0,India,7.5,no,no,no,8,15,118,89,May
+2021,Nezha Reborn,Zhao Ji,Animation/Fantasy,6.9,54,40,China,6,no,no,no,150,456,117,73,May
+2007,Eastern Promises,David Cronenberg,Crime/Drama,7.6,89,82,USA,7,no,no,no,50,56,100,86,May
+2020,Beasts Clawing at Straws,Kim Yong-hoon,Thriller/Crime,7.1,95,59,Korean,7,no,no,no,60,210,108,85,May
+2017,Steel Rain,Woo-seok Yang,Action/Thriller,7.1,0,0,Korean,7.5,no,no,no,20,33,139,79,May
+2020,The Heist of the Century,Ariel Winograd,Comedy/Thriller,7.2,83,60,Spanish,8,no,no,no,6,12,114,93,May
+2016,The Magnificent Seven,Antoine Fuqua,Western/Action,6.9,64,54,USA,6,no,no,no,100,162,133,89,May
+2020,Mulan,Niki Caro,Action/Fantasy,5.7,73,66,USA,5,no,no,no,200,70,115,65,May
+1994,Leon The Professional,Luc Besson,Action/Drama,8.5,74,64,USA,8,no,no,no,16,46,110,92,May
+1988,Akira,Katsuhiro Otomo,Anime,8,90,67,Japan,8,no,yes,no,5,49,124,91,May
+1980,Raging Bull,Martin Scorsese,Drama/Sport,8.2,94,89,USA,8,no,no,no,18,23,129,87,May
+2020,GreyHound,Aaron Schneider,Action/Drama,7,79,64,USA,7,no,no,no,50,50,91,90,May
+1988,My Neighbour Totoro,Hayao Miyazaki,Anime,8.2,94,86,Japan,8.5,no,yes,no,41,50,86,94,June
+2007,Ratatouille,Brad Bird,Animation,8,96,96,USA,8,no,no,no,150,624,111,93,June
+2008,In Bruges,Martin McDonagh,Crime/Comedy,7.9,84,67,USA,8,no,no,no,15,35,117,89,June
+2015,Legend,Brian Helgeland,Crime/Drama,6.9,61,55,UK,6,no,no,no,25,43,131,86,June
+2015,Mad Max: Fury Road,George Miller,Apocalyptic and post-apocalyptic fiction/Fantasy,8.1,97,90,USA,8.5,no,no,no,170,375,120,91,June
+1992,Reservoir Dogs,Quentin Tarantino,Crime/Action,8.3,92,79,USA,8,no,no,no,2,3,99,92,June
+2016,The Hunt,Woo-cheol Lee,Thriller/Crime,5.2,0,0,Korean,6,no,no,no,0,0,93,88,June
+1927,The Lodger - A Story of the London Fog,Alfred Hitchcock,Thriller/Mystery,7.3,96,80,UK,6,no,no,no,0,0,98,85,June
+2017,Logan Lucky,Steven Soderbergh,Comedy/Crime,7,92,78,USA,7,no,no,no,29,49,119,72,June
+1993,The Fugitive,Andrew Davis,Action/Thriller,7.8,96,87,USA,7.5,no,no,no,44,369,130,90,June
+2014,300: Rise of an empire,noam Murro,Action/War,6.2,45,48,USA,5,no,no,no,110,338,112,78,June
+1977,Annie Hall,Woody Allen,Comedy/Romance,8,96,92,USA,7,no,no,no,4,38.3,93,83,June
+2020,Summit: Steel Rain 2,Woo-seok Yang,Action/Thriller,6.2,0,0,Korean,6.5,no,no,no,0,0,132,76,June
+2018,Door Lock,Lee Kwon,Thriller/Drama,6.4,0,0,Korean,6,no,no,no,9,12,113,90,June
+2002,Road to Perdition,Sam Mendes,Crime/Drama,7.7,81,72,USA,8,no,no,no,80,183,117,86,June
+2008,Body of Lies,Ridley Scott,Thriller/Action,7.1,55,57,USA,6,no,no,no,70,119,128,81,June
+2015,The Dressmaker,Jocelyn Moorhouse,Thriller/Drama,7.1,55,47,Australia,7,no,no,no,12,25,118,88,June
+2015,Sicario,Denis Villeneuve,Thriller/Action,7.6,92,82,USA,7,no,no,no,30,85,121,87,June
+2002,Insomnia,Christopher nolan,Thriller/Drama,7.2,92,78,USA,7,no,no,no,46,114,118,92,June
+2019,Kumbalangi Nights,Madhu C,Drama/Romance,8.6,0,0,India,8,no,no,no,6.5,39,150,95,June
+2011,The Mechanic,Simon West,Action/Thriller,6.6,55,49,USA,5,no,no,no,40,76,93,78,June
+2018,Ocean Eight,Gary Ross,Comedy/Crime,6.3,69,61,USA,6,no,no,no,70,298,111,79,June
+2015,The Revenant,Alejandro González Iñárritu,Biography/Western,8,78,76,USA,8,no,no,no,135,533,156,87,July
+2019,Kingdom,Kim Eun-hee,Historical/Political Drama/Horror,8.4,96,0,Korean,8.5,no,no,yes,30,0,36-56,94,July
+2014,The Drop,Michael R.Roskam,Crime/Drama,7.1,89,69,USA,6,no,no,no,13,19,116,73,July
+2017,Alien: Covenant,Ridley Scott,Sci-fi/Horror,6.4,65,65,UK,6,no,no,no,105,241,123,80,July
+2006,Night at the Museum,Shawn Levy,Family/Comedy,6.4,44,48,UK,7,no,no,no,110,575,118,91,July
+2019,Batman Hush,Justin Copeland,Action/Mystery,6.9,88,69,USA,7,yes,yes,no,0,0,82,86,July
+2015,Batman Vs Robin,Jay Oliva,Action/Adventure,7.1,100,50,USA,7,yes,yes,no,0,0,80,86,July
+2021,The map of tiny perfect things,Ian Samuels,Sci-fi/Romance,6.8,76,61,USA,7,no,no,no,0,0,99,71,July
+2021,Cruella,Craig Gillespie,Comedy/Crime,7.4,74,59,USA,7.5,no,no,no,100,233.3,134,92,July
+2019,Triple Frontier,J. C. Chandor,Action/Heist,6.4,71,61,USA,6,no,no,no,115,0,125,64,July
+1983,Risky Business,Paul Brickman,Comedy/Romance,6.8,92,75,USA,6,no,no,no,6.2,64,99,83,July
+2018,Hereditary,Ari Aster,Horror/Drama,7.3,89,87,USA,7,no,no,no,10,80,127,74,July
+2021,The Falcon & The Winter Soldier,Kari Skogland,Superhero/Action,7.3,89,0,USA,6.5,yes,no,yes,150,0,50-60,92,July
+1998,Following,Christopher nolan,Thriller/Crime,7.5,81,60,UK,7,no,no,no,6,48,70,82,July
+1995,Citizen X,Chris Gerolmo,Thriller/Drama,7.5,86,76,USA,7.5,no,no,no,0,0,115,92,July
+1985,The Black Cauldron,Richard Rich & Ted Berman,Animation/Family,6.4,55,59,USA,6,no,yes,no,44,21.3,80,83,July
+2017,Bad Genius,Nattawut Poonpiriya,Thriller/Heist,7.6,100,0,Thailand,8,no,no,no,9,42,130,94,August
+2018,White Fang,Alexandre Espigares,Adventure/Animation,7,80,61,France,7,no,yes,no,0,0,88,75,August
+1976,Family Plot,Alfred Hitchcock,Thriller/Mystery,6.8,92,79,USA,7,no,no,no,4.5,13.2,121,80,August
+2006,Paprika,Satoshi Kon,Sci-fi/Adventure,7.7,85,81,Japan,8,no,yes,no,3,12,90,88,August
+2014,The Amazing Spiderman 2,Marc Webb,Action/Adventure,6.6,51,53,USA,6,no,no,no,280,709,142,81,August
+2012,Jack Reacher,Christopher McQuarrie,Action/Thriller,7,63,50,USA,7,no,no,no,60,218,130,85,August
+2019,The Vast of Night,Andrew Patterson,Sci-fi/Mystery,6.7,92,84,USA,6,no,no,no,7,0,91,80,August
+2017,Okja,Bong Joon-ho,Sci-fi/Adventure,7.3,86,75,Korean,7,no,no,no,50,2,120,88,August
+2020,Sonic the Hedgehog,Jeff Fowler,Adventure/Comedy,6.5,63,47,USA,6,no,no,no,90,320,99,85,August
+2020,Sweet Home,Lee Eung-bok,Drama/Horror-Apocalyptic,7.4,83,0,Korean,6.5,no,no,yes,27,0,"45-60",96,August
+2021,The Woman in the Window,Joe Wright,Mystery/Thriller,5.7,26,41,USA,5.5,no,no,no,40,0,100,63,August
+2016,Train to Busan,Yeon Sang-ho,Horror/Action,7.6,94,72,Korean,8,no,no,no,8.5,98.5,118,95,August
+2013,Her,Spike Jonze,Sci-fi/Romance,8,94,91,USA,7.5,no,no,no,23,48.3,126,86,August
+2021,Black Widow,Cate Shortland,Superhero/Action,6.7,79,67,USA,6,yes,no,no,200,380,133,87,August
+2021,The Tomorrow War,Chris Mckay,Action/Sci-fi,6.6,52,45,USA,5,no,no,no,200,8,140,84,August
+2021,F9,Justin Lin,Action/Adventure,5.2,59,58,USA,5,no,no,no,220,726,145,84,August
+2021,Batman: The Long Halloween Part 1,Chris Palmer,Superhero/Action,7.3,100,0,USA,7,yes,yes,no,0,0,85,83,August
+2021,Batman: The Long Hallowin Part 2,Chris Palmer,Superhero/Action,7.2,100,0,USA,7.5,yes,yes,no,0,0,87,80,September
+2012,The Hunger Games,Gary Ross,Sci-fi/Action,7.2,84,68,USA,7.5,no,no,no,78,694.4,142,86,September
+2013,The Hunger Games: Catching Fire,Francis Lawrence,Sci-fi/Action,7.5,90,76,USA,7,no,no,no,135,865,146,86,September
+2014,The Hunger Games: Mockingjay 1,Francis Lawrence,Sci-fi/Adventure,6.6,69,64,USA,6,no,no,no,135,735,123,86,September
+2015,The Hunger Games: Mockingjay 2,Francis Lawrence,Action/Adventure,6.6,70,65,USA,6,no,no,no,160,658,137,84,September
+2021,Loki,Kate Herron,Superhero/Action,8.3,92,74,USA,8.5,yes,no,yes,150,0,42-54,95,September
+2021,The Suicide Squad,James Gunn,Sci-fi/Action,7.2,90,72,USA,6.5,yes,no,no,185,167,132,84,September
+2021,Till Death,Scott Dale,Thriller/Mystery,5.9,89,66,USA,5,no,no,no,0,0,88,73,September
+2020,Justice League Dark: Apokolips War,"Christina Sotta, Matt Peters",Superhero/Action,7.8,100,0,USA,7.5,yes,yes,no,0,0,90,72,September
+2010,Superman/Shazam: The Return of Black Adam,Joaquim Dos Santos,Superhero/Action,7.1,0,0,USA,7,yes,yes,no,0,0,63,70,September
+2018,The Equalizer 2,Antoine Fuqua,Action/Thriller,6.7,52,50,USA,6,no,no,no,70,190,121,86,September
+2011,From up on Puppy Hill,Gorō Miyazaki,Anime,7.4,86,71,Japan,7,no,yes,no,22,62,91,90,September
+2016,Big fish and Begonia,Kiyoshi Yoshida,Anime,7,91,72,Chinese,6,no,yes,no,30,80,105,85,September
+2021,WandaVision,Matt Shakman,Superhero/Sitcom/Romance,8,91,77,USA,8,yes,no,yes,225,0,30-50,93,September
+1984,Nausicaa of the Valley of the Wind,Hayao Miyazaki,Anime,8.1,89,86,Japan,8,no,yes,no,1,4,117,94,September
+2021,Jungle Cruise,Jaume Collet-Serra,Adventure/Action,6.6,62,50,USA,6,no,no,no,200,221,127,78,September
+2014,no tears for the dead,Lee Jeong-beom,Action/Thriller,6.8,43,30,Korean,6,no,no,no,2,4,116,90,September
+2021,Reminicense,Lisa Joy,Sci-fi/Thriller,5.9,37,46,USA,5,no,no,no,60,16,116,69,September
+2021,Wrath of man,Guy Ritchie,Action/Thriller,7.1,66,57,USA,6.5,no,no,no,40,104,118,87,September
+2020,A quite place 2,John Krasinski,Horror/Thriller,7.3,91,71,USA,7,no,no,no,60,297,97,89,September
+2014,Edge of Tomorrow,Doug Liman,Sci-fi/Action,7.9,91,71,USA,8,no,no,no,178,371,113,85,September
+2021,Sweet Tooth,"Jim Mickle, James Brolin",Drama/Apocalyptic and post-apocalyptic fiction,7.8,97,78,USA,8,no,no,yes,0,0,37-53,95,September
+1992,A Few Good Men,Rob Reiner,Legal Drama/Trial Drama,7.7,83,62,USA,7.5,no,no,no,35,243,138,90,September
+2019,Murder Mystery,Kyle Newacheck,Comedy/Mystery,6,45,38,USA,6,no,no,no,0,0,97,76,September
+2003,A tale of 2 sisters,Kim Jee-woon,Horror/Thriller,7.2,85,65,Korean,6.5,no,no,no,3.7,1,114,86,September
+2021,Kuruthi,Manu Warrier,Crime/Thriller,7.7,0,0,India,7.5,no,no,no,4.5,0,122,78,September
+
+2008,Step brothers,Adam McKay,Comedy,6.9,55,51,USA,6.5,no,no,no,65,128,98,89,October
+2015,The Hateful Eight, Quentin Tarantino,Western/Action,7.8,74,68,USA,7.5,no,no,no,55,157,187,89,October
+2021,Free Guy,Shawn Levy,Action/Adventure,7.2,80,62,USA,7,no,no,no,110,332,115,89,October
+2020,Paranormal,"Amr Salama, Majid Al Ansari",Drama/Supernatural,8.5,96,0,Egypt,8,no,no,yes,0,0,46-55,86,October
+1988,Die Hard,John McTiernan,Action/Thriller,8.2,94,72,USA,8.5,no,no,no,30,140,132,91,October
+1990,Die Hard 2,Renny Harlin,Action/Thriller,7.1,69,67,USA,7.5,no,no,no,65,240,124,92,October
+2001,Vanilla Sky,Cameron Crowe,Sci-fi/Thriller,6.9,42,45,USA,6.5,no,no,no,68,203,137,81,October
+2012,Seven Psycopath,Martin McDonagh,Comedy/Crime,7.2,83,66,UK,7,no,no,no,14,33,110,84,October
+1986,The name of the Rose,Jean-Jacques Annaud,Mystery/Crime,7.7,74,54,Italy,7,no,no,no,17.5,77,131,85,October
+2002,Minority Report,Steven Spielberg,Sci-fi/Action,7.6,90,80,USA,8,no,no,no,102,358,145,86,October
+2021,Behind Her Eyes,Erik Richter Strand,Mystery/Psychological Thriller,7.2,62,54,UK,8,no,no,yes,0,0,47-53,85,October
+1995,Die Hard with a Vengeance,John McTiernan,Action/Thriller,7.6,59,58,USA,7.5,no,no,no,90,366,128,93,October
+2009,Knowing,Alex Proyas,Sci-fi/Thriller,6.2,34,41,USA,5,no,no,no,50,184,121,76,October
+2021,Dune,Denis Villeneuve,Sci-fi/Adventure,8.1,83,74,USA,8.5,no,no,no,165,398,156,84,October
+2020,#Alive,Cho Il-hyung,Thriller/Drama,6.3,88,0,Korean,6,no,no,no,10,15,99,78,October
+1990,The Hunt for Red October,John McTiernan,Thriller/Action,7.6,88,58,USA,7,no,no,no,30,200.5,135,91,October
+2001,Ocean's Eleven,Steven Soderbergh,Crime/Comedy,7.7,83,74,USA,7.5,no,no,no,85,451,117,88,October
+2011,Tower Heist,Brett Ratner,Crime/Comedy,6.2,68,59,USA,5.5,no,no,no,80,153,104,75,October
+2004,Ocean's Twelve,Steven Soderbergh,Crime/Comedy,6.5,54,58,USA,6.5,no,no,no,110,362,125,85,October
+2007,Ocean's Thirteen,Steven Soderbergh,Crime/Comedy,6.9,69,62,USA,6.5,no,no,no,85,312,122,89,October
+1979,Alien, Ridley Scott,Sci-fi/Horror,8.4,98,89,UK,8,no,no,no,11,106,117,89,October
+1986,Aliens,James Cameron,Sci-fi/Action,8.3,97,84,USA,8,no,no,no,19,150,137,92,October
+2021,What...If?,Bryan Andrews,Superhero/Action,7.5,94,69,USA,7.5,yes,yes,yes,0,0,30-37,88,November
+2015,Maze Runner: The Scorch Trials,Wes ball,Sci-fi/Action,6.3,48,43,USA,6,no,no,no,61,312,131,82,November
+2018,Maze Runner: The Death Cure,Wes ball,Sci-fi/Action,6.3,43,50,USA,6,no,no,no,62,288,143,83,November
+2018,The Death of Superman,"Sam Liu, Jake Castorena, James Tucker",Superhero/Action,7.4,92,0,USA,7,yes,yes,no,0,0,81,73,November
+2021,Squid Game,Hwang Dong-hyuk,Drama/Thriller,8,94,69,Korean,8,no,no,yes,21.4,0,32-63,94,November
+2018,Batman Gotham by Gaslight,Sam Liu,Superhero/Adventure,6.7,75,0,USA,7,yes,yes,no,0,0,78,74,November
+2004,Shaun of the dead,Edgar Wright,Horror/Comedy,7.9,92,76,UK,7,no,no,no,6,30,99,92,November
+2001,Spy Game,Tony Scott,Action/Thriller,7.1,66,63,USA,6,no,no,no,115,143,126,85,November
+2001,Along came a spider,Lee Tamahori,Thriller/Mystery,6.4,32,42,USA,7,no,no,no,60,105,103,83,November
+1967,Cool Hand Luke,Stuart Rosenberg,Drama/Prison-Break,8.1,100,92,USA,8,no,no,no,3.2,16,126,87,November
+1998,Lock Stock and two smoking barrels,Guy Ritchie,Crime/Comedy,8.2,74,66,UK,8,no,no,no,1.4,28,106,91,November
+2000,American Psycho,Mary Harron,Horror/Mystery,7.6,69,64,USA,7.5,no,no,no,7,34,102,90,November
+2020,Da 5 bloods,Spike Lee,War/Drama,6.5,92,82,USA,6.5,no,no,no,40,0,156,76,November
+2021,Lamb,Valdimar Jóhannsson,Horror/Drama,6.3,86,68,Iceland,6,no,no,no,0,3,106,71,November
+1971,The French Connection,William Friedkin,Crime/Thriller,7.7,96,94,USA,7.5,no,no,no,2,51,104,86,November
+2021,Shang-Chi and The Legend of The Ten Rings,Destin Daniel Cretton,Superhero/Action,7.5,91,71,USA,7,no,no,no,180,432,132,91,November
+2015,The Boy and the Beast,Mamoru Hosoda,Fantasy/Adventure,7.6,88,65,Japan,8,no,no,no,0,59,120,86,November
+1974,The Conversation,Francis Ford Coppola,Mystery/Drama,7.8,96,85,USA,7.5,no,no,no,1.6,4.4,113,84,November
+1993,Batman: Mask of the Phantasm,"Bruce Timm, Eric Radomski",Superhero/Action,7.8,84,0,USA,7,yes,yes,no,6,5.6,78,84,November
+1998,Batman and Mr. Freeze: Subzero,Boyd Kirkland,Superhero/Action,7.2,92,0,USA,6.5,yes,yes,no,0,0,70,84,November
+1978,The Deer Hunter,Michael Cimino,War/Drama,8.1,91,86,USA,7.5,no,no,no,15,49,184,86,November
+2014,Son of Batman,Ethan Spaulding,Superhero/Action,6.8,64,0,USA,6.5,yes,yes,no,0,0,74,88,November
+2010,The way back,Peter Weir,Drama/Survival,7.3,74,66,USA,6.5,no,no,no,30,20,133,88,November
+2009,Mr. nobody,Jaco Van Dormael,Sci-fi/Drama,7.8,68,63,Belgium,8,no,no,no,33,0,141,88,November
+2021,One,Santhosh Viswanath,Political Thriller/Drama,6.5,0,0,India,7,no,no,no,0,0,150,85,November
+2021,No time to die,Cary Joji Fukunaga,Action/Adventure,7.4,83,68,UK,7.5,no,no,no,280,774,163,84,November
+2012,Skyfall,Sam Mendes,Action/Adventure,7.8,92,81,UK,8,no,no,no,180,1.109,143,90,November
+2006,Casino Royale,Martin Campbell,Action/Adventure,8,94,80,UK,8.5,no,no,no,150,617,144,93,November
+2017,Life,Daniel Espinosa,Sci-fi/Horror,6.6,67,54,USA,6.5,no,no,no,60,101,104,79,November
+2021,Red notice,Rawson Marshall Thurber,Action/Comedy,6.3,37,37,USA,6,no,no,no,200,20,118,87,November
+1982,Blade Runner,Ridley Scott,Sci-fi/Action,8.1,89,84,USA,7.5,no,no,no,30,42,117,88,December
+1984,Ghostbusters,Ivan Reitman,Comedy/Fantasy,7.8,97,71,USA,7,no,no,no,27,295,105,86,December
+1956,A Man Escaped,Robert Bresson,War/Prison-Break,8.3,100,0,France,8,no,no,no,0,0,99,90,December
+2015,Colonia,Florian Gallenberger,Thriller/Romance,7.1,29,33,Germany,6.5,no,no,no,0,3.6,110,88,December
+2011,The Girl with the Dragon Tattoo,David Fincher,Thriller/Mystery,7.8,86,71,USA,7.5,no,no,no,90,239,158,89,December
+2016,Maigret,Georges Simenon,Crime/Drama,7.8,0,0,UK,7.5,no,no,yes,0,0,90,93,December
+2010,The Social Network,Biography/Historical Drama,David Fincher,7.7,96,95,USA,8,no,no,no,40,225,120,90,December
+1931,M,Fritz Lang,Thriller/Crime,8.3,100,0,Germany,8.5,no,no,no,0,0,111,47,December
+1985,Witness,Peter Weir,Drama/Crime,7.4,93,76,USA,7,no,no,no,12,116,112,83,December
+2021,Mandela,Madonne Ashwin,Comedy/Drama,8.5,0,0,India,7.5,no,no,no,0,0,140,84,December
+2006,My wife is a gangster 3,Jo Jin-kyu,Action/Drama,6.4,0,0,Korean,6.5,no,no,no,0,0,115,90,December
+2012,Cloud Atlas,"Lana Wachowski, Lilly Wachowski, Tom Tykwer",Sci-fi/Drama,7.4,66,55,USA,7,no,no,no,120,130,172,82,December
+2015,The Intern,Nancy Meyers,Comedy/Drama,7.1,59,51,USA,7,no,no,no,35,195,121,90,December
+2020,Batman: Death in the Family,Brandon Vietti,Superhero/Action,5.6,75,0,USA,6,yes,yes,no,0,0,95,65,December
+2020,I care a lot,J Blakeson,Thriller/Comedy,6.3,79,66,USA,6,no,no,no,0,1,118,58,December
+2001,The Score,Frank Oz,Thriller/Crime,6.8,73,71,USA,6,no,no,no,68,114,124,82,December
+2017,Mindhunter,David Fincher,Psychological Thriller/Crime,8.6,97,80,USA,8,no,no,yes,130,0,34-73,92,December
